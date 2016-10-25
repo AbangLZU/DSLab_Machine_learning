@@ -7,5 +7,5 @@
 * [徐梓荐](/xuzijian/index.md)
 * [李雪](/lixue/index.md)
 * [王昕](/wangxin/index.md)
-* [申泽邦](/shenzebang/index.md)
+* [申泽邦](/shenzebang/mit_deep_learning/chapter2/chapter.md)
 
